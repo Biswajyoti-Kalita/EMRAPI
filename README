@@ -1,0 +1,17 @@
+
+## Prerequisite
+	Nodejs 15.14.0 or higher
+	Pysql 13.4 or higher
+
+## Follow below steps to setup deployment
+	1. Download project folder
+	2. Inside project root directory run commands
+		a. npm i
+		b. update db credentials in .env file
+		c. node seed.js
+		d. node bin/www
+	3. Node server is running
+
+
+
+	

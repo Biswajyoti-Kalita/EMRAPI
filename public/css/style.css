@@ -1,0 +1,16 @@
+
+.float-r {
+  float: right;
+}
+.ws-nw {
+    white-space: nowrap;
+}
+.img-block {
+  align-items: center;
+}
+.fade-l {
+  color: #aaa;
+}
+.cursor-p {
+  cursor: pointer;
+}
